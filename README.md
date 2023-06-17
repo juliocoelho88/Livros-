@@ -1,2 +1,2 @@
-# Alurabook
-Projeto feito durante curso de responsavidade da Alura
+# Pagina de Livraria
+Projeto feito durante curso de responsavidade
