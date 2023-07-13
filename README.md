@@ -1,2 +1,3 @@
-# Pagina de Livraria
-Projeto feito durante curso de responsavidade
+# Pagina de Livraria Virtual
+Projeto feito durante curso de responsavidade.
+
